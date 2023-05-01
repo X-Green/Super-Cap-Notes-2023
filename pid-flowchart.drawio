@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T14:08:38.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="k_M8ZwrEkbJoiCMfvuV0" version="21.2.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-01T14:14:56.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="YTZjbya2nD46C2vDbHX3" version="21.2.3" type="device">
   <diagram name="第 1 页" id="p8YWe2DxDTa7Mp6vR5pf">
-    <mxGraphModel dx="1551" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-184" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
         <mxCell id="K8_N1y_AKC_AMPID7ME7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8_N1y_AKC_AMPID7ME7-30" target="K8_N1y_AKC_AMPID7ME7-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K8_N1y_AKC_AMPID7ME7-30" value="实际左侧电压&lt;br&gt;/&lt;br&gt;实际右侧电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K8_N1y_AKC_AMPID7ME7-30" value="实际左侧电压&lt;br&gt;divided by&lt;br&gt;实际右侧电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="270" width="109" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K8_N1y_AKC_AMPID7ME7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8_N1y_AKC_AMPID7ME7-32" target="K8_N1y_AKC_AMPID7ME7-34">
